@@ -1,0 +1,3 @@
+<launch>
+      <node pkg="dm245m_driver" name="dm245m_demo_node" type="dm245m_demo_node" output="screen"/>
+</launch>

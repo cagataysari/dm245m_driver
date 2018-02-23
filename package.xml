@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <name>dm245m_driver</name>
+  <version>0.0.0</version>
+  <description>The dm245m_driver package</description>
+  <maintainer email="acagataysari@gmail.com">Cagatay Sari</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>libmodbus</build_depend>
+  <build_depend>geometry_msgs</build_depend>
+  <build_depend>roscpp</build_depend>
+  <run_depend>geometry_msgs</run_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>libmodbus</run_depend>
+   <export>
+  </export>
+</package>
